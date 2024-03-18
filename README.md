@@ -1,4 +1,4 @@
-Hi, I'm Golam Choudhury. 
+## Hi, I'm Golam Choudhury. 
 
 Currently, I am a automation testing consultant on assignment with a UK based private bank. The main methods of testing used at this particular institution are manual testing and automation testing using Tricentis Tosca. 
 
@@ -20,3 +20,5 @@ I have a number of skills and interests, here a few:
 - JavaScript
 - HTML & CSS
 - React
+
+![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolCh-7&show_icons=true&theme=transparent)
