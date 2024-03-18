@@ -11,7 +11,7 @@ This real-world experience has added to my skillset by exposing me to additional
 
 Outside of my current role for work, I also enjoy learning other disciplines within programming and technology. Currently, I am learning about Web Development and Data Science. Back-End web development has particularly gained my interest.
 
-I have a number of skills and interests, here a few:
+I have a number of skills and interests, here are just a few:
 - Core Python
 - Core Java
 - Pandas
