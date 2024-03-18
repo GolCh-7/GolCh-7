@@ -21,4 +21,7 @@ I have a number of skills and interests, here a few:
 - HTML & CSS
 - React
 
-![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolCh-7&show_icons=true&theme=transparent)
+
+![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolCh-7&show_icons=true&theme=swift)
+
+
