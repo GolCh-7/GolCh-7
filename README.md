@@ -20,6 +20,7 @@ I have a number of skills and interests, here are just a few:
 - JavaScript
 - HTML & CSS
 - React
+- Tricentis Tosca
 
 
 ![Golam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GolCh-7&show_icons=true&theme=swift)
