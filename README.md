@@ -1,6 +1,6 @@
 ## Hi, I'm Golam Choudhury. 
 
-Currently, I am a automation testing consultant on assignment with a UK based private bank. The main methods of testing used at this particular institution are manual testing and automation testing using Tricentis Tosca. 
+Currently, I am a automation testing specialist with a UK based private bank. The main methods of testing used at this particular institution are manual testing and automation testing using UiPath. 
 
 Although university degree is in Aeronautical Engineering, I  had decied to pivot into the world of programming shortly after graduation in 2020. 
 I am continuously building my skills in order to establish myself within this space. 
